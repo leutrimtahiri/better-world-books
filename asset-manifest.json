@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/better-world-books/static/css/main.4286e14e.css",
+    "main.js": "/better-world-books/static/js/main.cc35a651.js",
+    "static/js/787.6d304e4a.chunk.js": "/better-world-books/static/js/787.6d304e4a.chunk.js",
+    "static/media/logo.svg": "/better-world-books/static/media/logo.1962ab7d3ebf2ef4b79dc37ee0aba353.svg",
+    "index.html": "/better-world-books/index.html",
+    "main.4286e14e.css.map": "/better-world-books/static/css/main.4286e14e.css.map",
+    "main.cc35a651.js.map": "/better-world-books/static/js/main.cc35a651.js.map",
+    "787.6d304e4a.chunk.js.map": "/better-world-books/static/js/787.6d304e4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4286e14e.css",
+    "static/js/main.cc35a651.js"
+  ]
+}
