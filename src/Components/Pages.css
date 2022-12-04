@@ -1,0 +1,13 @@
+.sc{ width: 80%; display: flex; flex-wrap: wrap;margin-top: 20px; position: absolute;z-index: -1;}
+input{width: 39%; margin-left: 39.5%; position: absolute; margin-top: -99px; height: 76px;}
+
+.titles{margin-left: 50px;}
+@media only screen and (max-width: 666px) {
+    input{width: 98%;margin-left: -22px; margin-top: -250px; border-top: none; height: 60px;}
+}
+
+
+
+
+
+

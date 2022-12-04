@@ -1,0 +1,9 @@
+.home{ z-index: -2; width: 80%; position: absolute;}
+.card{  display: flex; flex-wrap: wrap; margin-top: 20px; position: relative; z-index: 1;  }
+.titles{margin-left: 50px;}
+
+
+
+
+
+
